@@ -1,0 +1,114 @@
+
+/*DEVELOPER: Bhargav Jillepalli, IS117-101, Fall 2022 */
+
+.footer {
+
+
+position: center;
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: aliceblue;
+color: darkblue;
+text-align: center;
+padding-top: 10px;
+margin-bottom: 25px;
+font-size: 0.5rem;
+background-image: linear-gradient(aquamarine, gray);
+
+}
+.contact-title{
+text-align: center;
+font-family: "Hiragino Sans";
+padding-top: 200px;
+color: cadetblue;
+
+}
+.card_news{
+    padding-left: 25em;
+
+}
+.contact-text{
+text-align: center;
+font-family: "Hiragino Sans";
+color: cadetblue;
+}
+.text-center{
+background-image: linear-gradient(red, blue);
+padding: 10px;
+
+margin-bottom: 25px;
+    width: 100%;
+
+
+}
+.hoodie_man{
+border-style: solid;
+border-color: #0d6efd;
+width: 100%;
+}
+.blizzard{
+    width: 80%;
+
+}
+
+.col{
+width: 500px;
+height: 50px;
+border-radius: 35px;
+padding-top: 30px;
+}
+
+.col-6{
+padding-top: 20px;
+line-height: 200%;
+border-style: solid;
+
+}
+.text-sm-start{
+text-align: right;
+}
+
+.col-sm-4{
+text-align: center;
+float: right;
+}
+
+.text-center{
+color: royalblue;
+font-family: ".SF NS Mono";
+margin-top: 1.5px;
+
+
+}
+.card-img-top{
+position: center;
+width: auto;
+border-radius: 30px;
+padding: 25px;
+
+}
+.card{
+border-style: dashed;
+border-color: #25cff2;
+color: #1ecbe1;
+background-color:#E1341E ;
+}
+.card_review{
+padding-left: 95px;
+align-content: center;
+position: center;
+}
+.card_review_2{
+padding-left: 95px;
+align-content: center;
+position: center;
+}
+.card_review_3{
+padding-left: 95px;
+align-content: center;
+position: center;
+}
+body{
+background-color:salmon;
+}
